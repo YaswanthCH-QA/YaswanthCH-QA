@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Yaswanth Chinta</h1>
 <h3 align="center">Aspiring QA Architect | Manual and Automation Tester | Passionate about building robust testing frameworks</h3>
 
-<p align="center">⚙️ <i>Loading the GitHub with automation for ease of life...</i> 🤖</p>
+<p align="center">
+  <a href="https://yaswanthch-qa.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthch-qa&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthch-qa" /> </p>
 
